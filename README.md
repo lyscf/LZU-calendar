@@ -9,7 +9,7 @@
 
 使用pip安装 `beautifulsoup4`,`requests`,`pytz`,`ics`这几个库
 
-打开`main.py`并填入你在教务系统登陆后得到的cookie文件
+打开`main.py`并填入你在教务系统登陆后得到的cookie
 
 运行`main.py`
 
